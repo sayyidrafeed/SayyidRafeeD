@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" width="400" src="https://media.discordapp.net/attachments/826426787781148736/1451769326800736386/114965680_p0_master1200.png?ex=6947610c&is=69460f8c&hm=7d6035815dd0b00fa6a2e2d4be82f53d3ab29c2f953f052973241e0724d95c52&=&format=webp&quality=lossless&width=535&height=862" alt="fern"/>
+<img align="right" width="400" src="https://github.com/user-attachments/assets/de7734b6-a9fa-4d81-9346-1c2014880c15" alt="fern"/>
 
 <h3 align=center>Hi! my name's Rafee</h3>
 
