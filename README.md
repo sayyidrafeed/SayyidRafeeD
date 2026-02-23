@@ -78,21 +78,32 @@
 
 ###
 
-<h4 align="center">Tools</h4>
-
-###
+<h4 align="center">Devops & Tools</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="40" alt="webstorm logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="40" alt="datagrip logo"/>   
-  <img width="12"/>  
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/linear/5E6AD2" height="40" alt="linear logo" />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digital ocean logo" />
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=railway" height="40" alt="railway logo" />
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="render logo" />
+<img width="12"/>
+<img src="https://img.shields.io/badge/Dokploy-38BDF8?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="dokploy logo" />
 </div>
 
 ###
