@@ -52,6 +52,8 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"/>
   <img width="12"/>
+  <img src="https://cdn.simpleicons.org/drizzle/white" height="40" alt="drizzle logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"/>
@@ -89,7 +91,7 @@
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"/>
 <img width="12"/>
-<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+<img src="https://cdn.simpleicons.org/httpie/73DC8C" height="40" alt="httpie logo" />
 <img width="12"/>
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 <img width="12"/>
@@ -103,7 +105,7 @@
 <img width="12"/>
 <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="render logo" />
 <img width="12"/>
-<img src="https://img.shields.io/badge/Dokploy-38BDF8?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="dokploy logo" />
+<img src="https://avatars.githubusercontent.com/u/156882017?s=200&v=4" height="40" style="border-radius:50%;" alt="dokploy logo" />
 </div>
 
 ###
