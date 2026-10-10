@@ -2,13 +2,13 @@
 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/de7734b6-a9fa-4d81-9346-1c2014880c15" alt="fern"/>
 
-<h3 align=center>Hi! my name's Rafee</h3>
+<h3 align=center>Hi! you can call me Rafee</h3>
 
-- I'm a Junior CS Student based in Jakarta.
-- Passionate about software engineering and keep exploring how fast technologies can be.
-- Happy to learn how a scalable system works.
+- Third-year CS Student based in Jakarta.
+- Love javascript staff.
+- Happy to solve product / engineering problems.
   
-<h3 align="center">My Stack</h3>
+<h3 align="center">Stack</h3>
 
 <h4 align="left">Frontends</h4>
 
@@ -62,12 +62,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis logo"/>
   <img width="12"/>
-</div>
-
-###
-
-<h4 align="left">and still learning...</h4>
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="golang logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"/>
@@ -114,20 +108,6 @@
 </div>
 
 <h4 align=right>Fern by <a href="https://www.pixiv.net/en/artworks/114965680">TTuSee</a></h4>
-
-###
-  
-<h4 align="left">Come Contact Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/m-sayyid-rafee-djamil/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/rafeedjamil/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-
-</div>
   
 </div>
 
