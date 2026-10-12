@@ -5,7 +5,7 @@
 <h3 align=center>Hi! you can call me Rafee</h3>
 
 - Third-year CS Student based in Jakarta.
-- Love javascript staff.
+- Love javascript stuff.
 - Happy to solve product / engineering problems.
   
 <h3 align="center">Stack</h3>
