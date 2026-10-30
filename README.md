@@ -27,7 +27,15 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
   <img width="12"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="43" alt="next.js logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=astro" height="43" alt="astro logo"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"/>
+  <img width="12"/>
+  <img src="https://viteplus.dev/favicon.svg" height="43" alt="vite+ logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/tanstack" height="43" alt="tanstack logo"/>
   <img width="12"/>
 </div>
 
@@ -69,6 +77,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="40" alt="k6 logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/vercel/white" height="40" alt="vercel ai sdk logo"/>
 </div>
 
 
@@ -84,6 +94,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"/>
+<img width="12"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/codex-color.svg" height="40" alt="codex logo"/>
+<img width="12"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/claudecode-color.svg" height="40" alt="claude code logo"/>
 <img width="12"/>
 <img src="https://cdn.simpleicons.org/httpie/73DC8C" height="40" alt="httpie logo" />
 <img width="12"/>
